@@ -1,0 +1,17 @@
+/*
+!.gitignore
+!README.md
+!LICENSE
+
+!contracts/
+!abi/
+!scripts/
+
+contracts/*
+abi/*
+scripts/*
+
+!contracts/SEPT.sol
+!abi/Token1.json
+!scripts/deploy.js
+!image.png
